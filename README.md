@@ -1,4 +1,5 @@
 ## Salesforce
+Completed set of courses. This folder contains further explanation what I learned in this course (READMEs), covered the following sections:
 ### [Achieve Your Goals with Salesforce Customer Success trail](https://trailhead.salesforce.com/content/learn/trails/achieve-your-goals-with-success-cloud)
 * [Salesforce Customer Success](https://trailhead.salesforce.com/content/learn/modules/salesforce-success-cloud-basics?trail_id=achieve-your-goals-with-success-cloud)
 
