@@ -1,1 +1,42 @@
-### A set of courses/training sessions preparing for a role in Implementation/Customer Success.
+## Salesforce
+### [Achieve Your Goals with Salesforce Customer Success trail](https://trailhead.salesforce.com/content/learn/trails/achieve-your-goals-with-success-cloud)
+* [Salesforce Customer Success](https://trailhead.salesforce.com/content/learn/modules/salesforce-success-cloud-basics?trail_id=achieve-your-goals-with-success-cloud)
+
+  1. [Get Started with Salesforce Customer Success](https://trailhead.salesforce.com/content/learn/modules/salesforce-success-cloud-basics/get-started-with-salesforce-success-cloud?trail_id=achieve-your-goals-with-success-cloud)
+
+     * Salesforce core values,
+     * Types of Salesforce Success Plans,
+     * Salesforce Professional Services.
+
+* [Salesforce Professional Services: Quick Look](https://trailhead.salesforce.com/content/learn/modules/salesforce-professional-services?trail_id=achieve-your-goals-with-success-cloud)
+
+  1. [Get Started with Salesforce Professional Services](https://trailhead.salesforce.com/content/learn/modules/salesforce-professional-services/get-started-with-salesforce-professional-services?trail_id=achieve-your-goals-with-success-cloud)
+
+     * Explanation of Salesforce Professional Services (tailored roadmap, flexible platform, faster innovation),
+     * Advantages of work with Salesforce Professional Services.
+
+### [Transform Your Business with Salesforce Customer Success trail](https://trailhead.salesforce.com/content/learn/trails/transform-business-sf-expeditions)
+* [Digital Transformation](https://trailhead.salesforce.com/content/learn/modules/digital-transformation?trail_id=transform-business-sf-expeditions)
+
+  1. [Learn About Digital Transformation](https://trailhead.salesforce.com/content/learn/modules/digital-transformation/learn-about-digital-transformation?trail_id=transform-business-sf-expeditions)
+
+     * Key characteristics transformation projects share (design first, culture, speed and agility),
+     * Real-world example of digital transformation.
+
+  2. [Learn About the Challenges and Opportunities of Digital Transformation](https://trailhead.salesforce.com/content/learn/modules/digital-transformation/challenges-digital-transformation?trail_id=transform-business-sf-expeditions)
+
+     * Obstacles that companies can face on their digital transformation journey,
+     * The business value of Digital Transformation,
+     * Crucial questions for your business.
+
+* [Salesforce Architects](https://trailhead.salesforce.com/content/learn/modules/salesforce-architects?trail_id=transform-business-sf-expeditions)
+
+  1. [Use Technology to Innovate](https://trailhead.salesforce.com/content/learn/modules/salesforce-architects/use-technology-to-innovate?trail_id=transform-business-sf-expeditions)
+
+     * Embracing new technology to help your company innovate,
+     * Salesforce Architect duty.
+
+  2. [Get Support from Salesforce Architects](https://trailhead.salesforce.com/content/learn/modules/salesforce-architects/get-support-from-salesforce-architects?trail_id=transform-business-sf-expeditions)
+
+     * The Salesforce Architect features and ways of help,
+     * Four types of Salesforce Architects (Business Architect, Program Architect, Implementation Architect, Design Architects).
